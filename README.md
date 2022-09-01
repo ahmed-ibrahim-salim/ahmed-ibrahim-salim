@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Swift, UIKit, Test-Driven Development, Unit-Testing, Dart, Flutter**
 
-- 📫 How to reach me **ahmed-ibrahim-salim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
